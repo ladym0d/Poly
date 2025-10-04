@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+# Node
+node_modules/
+dist/
+# OS
+.DS_Store
+Thumbs.db
+# Blender autosave
+*.blend1
+*.blend2
+# Logs
+logs/
+*.log
