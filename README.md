@@ -1,4 +1,7 @@
 # Poly
+
+![CI](https://github.com/ladym0d/Poly/actions/workflows/ci.yml/badge.svg)
+
 > An open, pirate-themed AI collaboration assistant...
 
 ## Highlights
