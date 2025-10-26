@@ -25,6 +25,19 @@
 ## Repo Map
 See /docs/REPO_MAP.md
 
+## 🧩 Poly Tutor MVP (v0.4b)
+
+The first functional teaching loop between Poly and Blender 2.79 — completed **October 26 2025**.
+
+**Core Components**
+- **Hook:** [`poly_hook.py`](poly_hook.py) — Blender socket listener and verifier.
+- **Teaching Script:** [`teach_step_1.ps1`](demo/teach_step_1.ps1) — PowerShell loop that runs “teach add cube” → verify → “teach move cube”.
+- **Demo Video:** `video/poly_mvp_demo_2025-10-26.mp4` — recorded proof-of-concept of Poly teaching Blender live.
+- **Hardware:** Surface Pro 7 (Windows 11) using Windows TTS.
+
+> 🎉 *This marks the first time Poly issued spoken instructions, detected success in Blender, and responded using SSML — the birth of interactive tutoring.*
+
+
 ## License
 MIT
 =======
