@@ -1,4 +1,17 @@
 # Poly
+---
+
+## 🚀 Recent Milestones
+
+| Date | Milestone | Description |
+|------|------------|-------------|
+| **2025-10-26** | [✨ Poly Tutor MVP Achieved](logs/2025-10-26.md) | First successful interactive teaching loop between Poly and Blender 2.79 — Poly gave voice instructions, detected success, and responded verbally using SSML. |
+| **2025-10-25** | Hook v0.4b Verified | JSON command fallback resolved; plaintext `get loc` validated; PowerShell `Send-Poly` helper operational. |
+| **2025-10-19** | CLI & Hook Integration | Confirmed socket communication, PowerShell relay, and Blender event response baseline. |
+| **2025-10-01** | GrantAI Readiness Checklist Complete | Repository docs, roadmap, and CI badge verified for upcoming grant submission. |
+| **2025-09-13** | Shipwright → Poly Handoff | Core observability pipeline validated; Poly Phase 1 groundwork established. |
+
+> 🧭 *Next up:* Record the OBS demo, share milestone posts, and begin grant-video prep for the Poly Tutor MVP showcase.
 
 ![CI](https://github.com/ladym0d/Poly/actions/workflows/ci.yml/badge.svg)
 
